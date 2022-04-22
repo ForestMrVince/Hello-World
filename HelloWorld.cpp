@@ -1,4 +1,4 @@
-#include <iostran>
+#include <iostream>
 
 int main(void)
 {
